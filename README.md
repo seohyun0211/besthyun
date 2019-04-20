@@ -1,7 +1,9 @@
-# Lab 2 . simple linear regression
+# Lab 2. simple linear regression
 
-import tensorflow as tf  #텐서플로우를 tf라고 줄여서 사용하겠다
-import numpy as np
+import tensorflow as tf  #tensorflow 라이브러리를 tf라는 약어로 불러오겠다.
+import numpy as np #numpy 라이브러리를 np라는 약어로 불러오겠다.
+
+tf.enable_eager_execution() #즉시 실행을 시작한다.
 
 
-tf.enable_eager_execution()
+# Lab 3. 
