@@ -7,3 +7,4 @@ tf.enable_eager_execution() #즉시 실행을 시작한다.
 
 
 # Lab 3. 
+d
