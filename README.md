@@ -1,6 +1,6 @@
 # WELCOME TO SEOHYUN'S GITHUB♡
 
-https://github.com/seohyun0211/besthyun/blob/master/lab%202.html
+[랩2](https://github.com/seohyun0211/besthyun/blob/master/lab%202.html)
 
 
 서현이의 깃허브에 오신 걸 환영합니다 :)
