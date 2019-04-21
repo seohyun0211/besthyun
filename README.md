@@ -3,7 +3,7 @@
  
 [Lab02. simple linear regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab2.%20simple%20linear%20regression.py)
 
- 
+ ![2 1](https://user-images.githubusercontent.com/49617386/56468886-57471580-646d-11e9-81a6-bc471189ba14.png)
  
  
 
