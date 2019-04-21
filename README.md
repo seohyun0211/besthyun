@@ -1,6 +1,6 @@
 # ♥WELCOME TO SEOHYUN'S GITHUB♥
 
-[랩2](https://github.com/seohyun0211/besthyun/blob/master/lab%202.html)
+[Lab02. simple linear regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab2.%20simple%20linear%20regression.py)
 
 Let's start to review tensorflow's code
  
