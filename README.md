@@ -1,11 +1,8 @@
-# WELCOME TO SEOHYUN'S GITHUB♡
+# ♥WELCOME TO SEOHYUN'S GITHUB♥
 
 [랩2](https://github.com/seohyun0211/besthyun/blob/master/lab%202.html)
 
-
-서현이의 깃허브에 오신 걸 환영합니다 :)
-이 곳에선 텐서플로우에 사용되는 코드에 대해 리뷰를 할 것입니다.
- 
+Let's start to review tensorflow's code
  
  
  
