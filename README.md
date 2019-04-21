@@ -1,14 +1,11 @@
 # ♥WELCOME TO SEOHYUN'S GITHUB♥
-
+* Let's start to review tensorflow's code
+ 
 [Lab02. simple linear regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab2.%20simple%20linear%20regression.py)
 
-Let's start to review tensorflow's code
  
  
  
- 
- 
-# Lab 2. simple linear regression
 
 * import tensorflow as tf  
   #tensorflow 라이브러리를 tf라는 약어로 불러오겠다.
