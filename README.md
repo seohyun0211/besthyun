@@ -7,5 +7,4 @@
 
  ![3 1](https://user-images.githubusercontent.com/49617386/56468967-611d4880-646e-11e9-8cbb-3293cd2122f2.png)
 
-[Lab03. linear regression How to minimize cost LAB 코드 리뷰 바로가기 click!]
-(https://github.com/seohyun0211/besthyun/blob/master/Lab3.%20linear%20regression%20How%20to%20minimize%20cost%20LAB.py)
+[Lab03. linear regression How to minimize cost LAB 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab3.%20linear%20regression%20How%20to%20minimize%20cost%20LAB.py)
