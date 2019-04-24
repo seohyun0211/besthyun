@@ -17,7 +17,7 @@ learning_rate = 0.01
 #학습률의 값을 0.01로 지정한다. 보통 0.01~0.001이 적당한 학습률이라고 한다.
 
 for i in range(100+1):
-    #학습을 100번 반복한다.
+    #학습을 101번 반복한다.
     with tf.GradientTape() as tape:
         #안에서 계산을 하면 tape에 계산 과정을 기록해둔다. 후에 tape.gradient를 이용해서 미분을 자동으로 구할 수 있다.
         hypothesis = w * x_data + b
