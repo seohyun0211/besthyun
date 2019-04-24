@@ -14,4 +14,9 @@
 # Lab04
 ![제목 없음](https://user-images.githubusercontent.com/49617386/56488368-245a5b80-6519-11e9-899b-2fac1fac6ce5.png)
 
-[Lab04. Multi-variable linear regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab%2004.%20Multi-variable%20linear%20regression.py)
+[Lab04. multi-variable linear regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab%2004.%20Multi-variable%20linear%20regression.py)
+
+# Lab05
+
+
+[Lab05. logistic regression 코드 리뷰 바로가기 click!](https://github.com/seohyun0211/besthyun/blob/master/Lab05.%20logistic%20regression.py)
