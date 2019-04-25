@@ -29,7 +29,8 @@ for step in range(EPOCHS):
         grads = grad(logistic_regression(features), features, labels)
         optimizer.apply_gradients(grads_and_vars=zip(grads,[W,b]))
         if step % 100 == 0:
-#실제 x값과 y값을 넣어가며 모델이 만들어진다. optimizer를 통해 실제 값과 가장 가까워지도록 계속 minimize한다. 이 과정을 통해 W와 b가 계속 업데이트 된다.
+#실제 x값과 y값을 넣어가며 모델이 만들어진다. optimizer를 통해 실제 값과 가장 가까워지도록 계속 minimize한다. 이 과정을 통해 W와 b가 계속 업데이트 된다.  
+        if step % 100 == 0:
             print("Iter: {}, Loss: {:.4f}".format(step, loss_fn(logistic_regression(features) ,labels)))
 #100번 마다 한 번씩 결과를 출력하여 확인한다. 
 def accuracy_fn(hypothesis, labels):
