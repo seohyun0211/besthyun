@@ -32,3 +32,23 @@ for i in range(100+1):
     if i % 10 == 0:
         print("{:5}|{:10.4f}|{:10.4}|{:10.6f}".format(i, w.numpy(), b.numpy(), cost))
         #w와 b의 값을 확인하기 위해 10번에 한 번씩 값을 출력한다.
+
+        <결과 값>
+WARNING:tensorflow:From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:642: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+    0|    2.4520|     0.376| 45.660004
+   10|    1.1036|  0.003398|  0.206336
+   20|    1.0128|  -0.02091|  0.001026
+   30|    1.0065|  -0.02184|  0.000093
+   40|    1.0059|  -0.02123|  0.000083
+   50|    1.0057|  -0.02053|  0.000077
+   60|    1.0055|  -0.01984|  0.000072
+   70|    1.0053|  -0.01918|  0.000067
+   80|    1.0051|  -0.01854|  0.000063
+   90|    1.0050|  -0.01793|  0.000059
+  100|    1.0048|  -0.01733|  0.000055
+  # i       w        b          cost
+  #위에 설정한 것 처럼 i값이 10번에 한 번씩 출력된다.
+  #w값은 점점 1에 가까워지고 b값은 점점 0에 가까워진다.
+  #우리가 설정한 값과 cost값의 차이를 줄여햐한다. 
