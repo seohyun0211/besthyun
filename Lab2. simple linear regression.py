@@ -34,9 +34,7 @@ for i in range(100+1):
         #w와 b의 값을 확인하기 위해 10번에 한 번씩 값을 출력한다.
 
         <결과 값>
-WARNING:tensorflow:From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\ops\resource_variable_ops.py:642: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Colocations handled automatically by placer.
+        
     0|    2.4520|     0.376| 45.660004
    10|    1.1036|  0.003398|  0.206336
    20|    1.0128|  -0.02091|  0.001026
